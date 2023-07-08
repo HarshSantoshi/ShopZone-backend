@@ -4,8 +4,7 @@
   "description": "This is the server of Ecommerce Website",
   "main": "app.js",
   "scripts": {
-    "dev" : "nodemon app.js",
-    "build" : "npm i"
+    "start":  "node app.js"
   },
   "author": "Harsh",
   "license": "ISC",
